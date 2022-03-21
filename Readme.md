@@ -4,14 +4,14 @@
 
 My name is Santiago, I'm from Argentina and I'm a Fullstack Web Developer.
 
-* I learned programming in Henry's Fullstack Programming course.
-* I'm studying Byotechnology at UNQ (Universidad Nacional de Quilmes, in Argentina).
+* I learned programming in Henry's Fullstack Programming Bootcamp.
+* I'm studying a degree in Computer Science at UNQ (Universidad Nacional de Quilmes, in Argentina).
 * I have a [Twitch channel](twitch.tv/possur) (in Spanish) where I play videogames.
 
 ## Skills
 
-* Javascript, HTML, CSS, NodeJS and SQL.
-* Some Python knowledge
+* Javascript, HTML, CSS and SQL.
+* Some Python and Unity knowledge.
 * I have critical thinking, love to solve problems & teamworking.
 * Good vibes, everyday! 
 
