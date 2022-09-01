@@ -18,6 +18,6 @@ My name is Santiago, I'm from Argentina and I'm a Fullstack Web Developer.
 ## Contact
 
 * Gmail: vegasd2000@gmail.com
-* Discord: Possur#1453
+* Cellphone: 11-7001-9978
 
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Eat, sleep, code, repeat">
