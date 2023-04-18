@@ -5,7 +5,7 @@
 My name is Santiago, I'm from Argentina and I'm a studying Fullstack Web Development.
 
 * I'm studying a degree in Computer Science at UNQ (Universidad Nacional de Quilmes, in Argentina).
-* I have a [Twitch channel](twitch.tv/possur) (in Spanish) where I play videogames.
+* I have a [Twitch channel]([twitch.tv/possur](https://www.twitch.tv/possur)) (in Spanish) where I play videogames.
 
 ## Skills
 
