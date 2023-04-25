@@ -10,14 +10,14 @@ My name is Santiago, I'm from Argentina and I'm a studying Fullstack Web Develop
 ## Skills
 
 * Javascript, HTML and CSS.
-* Some Python and Unity knowledge.
+* Some Unity knowledge.
 * I have critical thinking, love to solve problems & teamworking.
 * Good vibes, everyday! 
 
 ## Contact
 
 * Gmail: vegasd2000@gmail.com
-* Discord: SantiagoVega#1453
+* Discord: Possur#1453
 * Cellphone: 11-2880-3846
 
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Eat, sleep, code, repeat">
